@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Coming Soon', cursive;
+    font-size: calc(12px + 0.25vw);
+}
+
+.nav {
+    background-color: black;
+}
+
+#sidebar {
+    height: 100%;
+    text-align: center;
+    top: 75px;
+    min-width: 300px;
+}
+
+.panel {
+    min-height: 650px;
+    margin: 50px 0;
+    padding: 50px;
+    top: 50px;
+}
+
+#portrait {
+    margin-bottom: 25px;
+    max-height: 175px;
+}
+
+.plain {
+    list-style: none;
+}
+
+.spaced {
+    margin-bottom: 5px;
+}
+
+.card {
+    margin: 50px 100px;
+    /* height: 500px; */
+    border: 2px solid blue;
+}
+
+.icons {
+    max-width: 75px;
+    margin: 5%;
+}
+
+.aboutImg {
+    max-height: 100px;
+    max-width: 150px;
+}
